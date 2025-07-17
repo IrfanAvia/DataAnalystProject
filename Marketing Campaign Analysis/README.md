@@ -4,7 +4,7 @@ Welcome to the Marketing Campaign Analysis project! This notebook provides a com
 
 ## 📂 Dataset
 The dataset is publicly available on Kaggle:  
-[🔗 Marketing Campaign Dataset](https://www.kaggle.com/datasets/[dataset-link])
+[🔗 Marketing Campaign Dataset](https://www.kaggle.com/datasets/khanimar/marketing-campaign-analysis-data)
 
 **Dataset Features:**
 - Demographics (age, gender, education)
@@ -67,3 +67,4 @@ Custom `visualize_metrics()` function displays:
    - Modeling
    - Evaluation
    - Final predictions
+3. Visualization with Tableau (https://public.tableau.com/views/MarketingCampaignAnalysis_17525652478470/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
