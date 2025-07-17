@@ -58,6 +58,14 @@ Custom `visualize_metrics()` function displays:
 - Generated `probability_yes` predictions
 - Filtered customers with probability > 0.5 for targeting
 
+  ## 📈 Insights & Business Value
+- Prioritize Manager job for being marketing campaign target
+- Target directed to individuals aged 60 and above may have higher success rate
+- Leverage March
+- For younger age groups (30-39), consider tailoring the message to address financial stability or long-term benefits. For older age groups, focus on benefits relevant to their life stage.
+- Develop campaign message of different job roles, especially for "Manager" and "Worker"
+- Investigate Duration and Account Balance to find why longer call correlate with positive response. This may indicate effective communcation and detailed explanation will lead to positive response. And consider campaign should be tailored based on account balance.
+
 ## 🚀 How to Use
 1. Clone repository or open in Google Colab
 2. Run notebook sequentially:
